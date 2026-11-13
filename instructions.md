@@ -1,6 +1,6 @@
 # Askly Frontend Starter
 
-Fork this repository, rename the fork to `askly-frontend`, then clone it using SSH in Git Bash.
+Select **Use this template**, then **Create a new repository**. Keep the name as `Askly-Frontend-Starter`, make it public and clone your new repository using HTTPS in Git Bash.
 
 ```bash
 npm install
