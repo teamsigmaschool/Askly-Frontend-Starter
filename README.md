@@ -1,5 +1,5 @@
 # Askly Frontend Starter
 
-This is the React template students copy for Mission 8 Chapter 2. The interface and styling are ready. Students connect the form to the Askly backend during the chapter.
+This is the Askly React template. The interface and styling are ready, so students can focus on connecting the form to the backend.
 
 Follow `instructions.md` before editing the project.
